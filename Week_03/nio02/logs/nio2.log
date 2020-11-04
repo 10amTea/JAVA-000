@@ -1,0 +1,10 @@
+2020-11-04 23:46:14,296 - NIOGateway 1.0.0 starting...
+2020-11-04 23:46:14,309 - NIOGateway 1.0.0 started at http://localhost:8890 for server:http://localhost:8890
+2020-11-04 23:46:14,842 - Unknown channel option 'TCP_NODELAY' for channel '[id: 0x99c355aa]'
+2020-11-04 23:46:14,842 - Unknown channel option 'SO_KEEPALIVE' for channel '[id: 0x99c355aa]'
+2020-11-04 23:46:14,842 - Unknown channel option 'SO_SNDBUF' for channel '[id: 0x99c355aa]'
+2020-11-04 23:46:14,843 - Unknown channel option 'io.netty.channel.unix.UnixChannelOption#SO_REUSEPORT' for channel '[id: 0x99c355aa]'
+2020-11-04 23:46:14,852 - [id: 0x99c355aa] REGISTERED
+2020-11-04 23:46:14,853 - [id: 0x99c355aa] BIND: 0.0.0.0/0.0.0.0:8890
+2020-11-04 23:46:14,854 - 开启netty http服务器，监听地址和端口为 http://127.0.0.1:8890/
+2020-11-04 23:46:14,854 - [id: 0x99c355aa, L:/0:0:0:0:0:0:0:0:8890] ACTIVE
